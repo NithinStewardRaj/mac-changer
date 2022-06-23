@@ -8,4 +8,4 @@ macchanger -r eth0
 sleep 1
 ifconfig eth0 up
 
-save it in a file and make it executable by changing the permission (chmod +x )
+save it in a file and make it executable by changing the permission (chmod +x <file>)
