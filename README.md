@@ -1,4 +1,4 @@
-you can use this file or automate it by yourself with a simple code
+you can use this file(macchanger) or automate it by yourself with a simple code
 
 #!/bin/bash
 
@@ -8,4 +8,4 @@ macchanger -r eth0
 sleep 1
 ifconfig eth0 up
 
-save it in a file and make it executable by changing the permission (chmod +x <file>)
+save it in a file and make it executable by changing the permission (chmod +x macchanger)
